@@ -1,4 +1,4 @@
-#TypeScript JSX Parser
+# TypeScript JSX Parser
 ### a port of Acorn-JSX
 
 [![Build Status](https://travis-ci.org/acornjs/acorn-jsx.svg?branch=master)](https://travis-ci.org/acornjs/acorn-jsx)
